@@ -47,16 +47,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/wp2901224-new-york-at-night-wallpapers.jpg
-      altText: >-
-        I’m a developer, digital artist, consultant and a bunch of other
-        impressive titles and buzz words.
-      caption: >-
-        I’m a developer, digital artist, consultant and a bunch of other
-        impressive titles and buzz words.
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''

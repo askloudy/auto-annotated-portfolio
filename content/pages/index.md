@@ -51,7 +51,9 @@ sections:
       type: ImageBlock
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'
       altText: altText of the image
-      caption: Caption of the image
+      caption: >-
+        I’m a developer, digital artist, consultant and a bunch of other
+        impressive titles and buzz words.
       elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection

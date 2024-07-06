@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/wp2900854-new-york-at-night-wallpapers.jpg
+  url: /images/logo1.svg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

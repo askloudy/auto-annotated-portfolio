@@ -49,7 +49,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/wp2901224-new-york-at-night-wallpapers.jpg
       altText: >-
         I’m a developer, digital artist, consultant and a bunch of other
         impressive titles and buzz words.

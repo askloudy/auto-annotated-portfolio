@@ -50,7 +50,9 @@ sections:
     media:
       type: ImageBlock
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-      altText: altText of the image
+      altText: >-
+        I’m a developer, digital artist, consultant and a bunch of other
+        impressive titles and buzz words.
       caption: >-
         I’m a developer, digital artist, consultant and a bunch of other
         impressive titles and buzz words.
